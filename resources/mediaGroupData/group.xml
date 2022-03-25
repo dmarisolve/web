@@ -1,0 +1,1239 @@
+<?xml version="1.0"?>
+<mediaGroup>
+<amgVersion version="1.3"/>
+<groupInfo>
+<author/>
+<authorApplication>Lightroom 3.6</authorApplication>
+<creationDate>03/03/12, 20:47:23 </creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3"/>
+<groupData groupID="" groupName=""/>
+<authorID/>
+<custom>
+<groupTitle>M&#x00ED;s Dise&#x00F1;os</groupTitle>
+<groupDescription>Galer&#x00ED;a de fotograf&#x00ED;as Web - Dise&#x00F1;os de Lencer&#x00ED;a</groupDescription>
+<siteTitle>Dise&#x00F1;os Marisol</siteTitle>
+<contactName>Contacto:   hernandez0424@dmarisol.net23.net</contactName>
+<contactEmail>mailto:hernandez0424@dmarisol.net23.net</contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize maxheight="48" maxwidth="48" size="thumb"/>
+<imageSize maxheight="300" maxwidth="450" size="small"/>
+<imageSize maxheight="450" maxwidth="800" size="medium"/>
+<imageSize maxheight="520" maxwidth="1040" size="large"/>
+</sizes>
+<media totalGallerySize="101">
+<item>
+<title></title>
+<description></description>
+<imageID id="37" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0030_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0030_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0030_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0030_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="49" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0031.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0031.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0031.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0031.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="64" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0032_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0032_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0032_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0032_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="75" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0033.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0033.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0033.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0033.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="86" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0013_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0013_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0013_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0013_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="103" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/130.jpg" width="368" size="large"/>
+<rendition height="450" src="images/medium/130.jpg" width="318" size="medium"/>
+<rendition height="300" src="images/small/130.jpg" width="212" size="small"/>
+<rendition height="48" src="images/thumb/130.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="114" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/130_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/130_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/130_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/130_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="125" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/181110_1713.jpg" width="959" size="large"/>
+<rendition height="434" src="images/medium/181110_1713.jpg" width="800" size="medium"/>
+<rendition height="244" src="images/small/181110_1713.jpg" width="450" size="small"/>
+<rendition height="26" src="images/thumb/181110_1713.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="136" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/181110_1716.jpg" width="618" size="large"/>
+<rendition height="450" src="images/medium/181110_1716.jpg" width="535" size="medium"/>
+<rendition height="300" src="images/small/181110_1716.jpg" width="357" size="small"/>
+<rendition height="40" src="images/thumb/181110_1716.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="147" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/181110_1717.jpg" width="520" size="large"/>
+<rendition height="450" src="images/medium/181110_1717.jpg" width="450" size="medium"/>
+<rendition height="300" src="images/small/181110_1717.jpg" width="300" size="small"/>
+<rendition height="48" src="images/thumb/181110_1717.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="158" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/181110_1720.jpg" width="398" size="large"/>
+<rendition height="450" src="images/medium/181110_1720.jpg" width="344" size="medium"/>
+<rendition height="300" src="images/small/181110_1720.jpg" width="230" size="small"/>
+<rendition height="48" src="images/thumb/181110_1720.jpg" width="37" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="169" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/200.jpg" width="384" size="large"/>
+<rendition height="450" src="images/medium/200.jpg" width="332" size="medium"/>
+<rendition height="300" src="images/small/200.jpg" width="222" size="small"/>
+<rendition height="48" src="images/thumb/200.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="180" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/250_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/250_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/250_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/250_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="191" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/250_3_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/250_3_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/250_3_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/250_3_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="202" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/250_5_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/250_5_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/250_5_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/250_5_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="213" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/290.jpg" width="368" size="large"/>
+<rendition height="450" src="images/medium/290.jpg" width="318" size="medium"/>
+<rendition height="300" src="images/small/290.jpg" width="212" size="small"/>
+<rendition height="48" src="images/thumb/290.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="224" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/250.jpg" width="355" size="large"/>
+<rendition height="450" src="images/medium/250.jpg" width="307" size="medium"/>
+<rendition height="300" src="images/small/250.jpg" width="205" size="small"/>
+<rendition height="48" src="images/thumb/250.jpg" width="33" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="235" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/300.jpg" width="381" size="large"/>
+<rendition height="450" src="images/medium/300.jpg" width="330" size="medium"/>
+<rendition height="300" src="images/small/300.jpg" width="220" size="small"/>
+<rendition height="48" src="images/thumb/300.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="246" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0001.jpg" width="400" size="large"/>
+<rendition height="450" src="images/medium/escanear0001.jpg" width="346" size="medium"/>
+<rendition height="300" src="images/small/escanear0001.jpg" width="231" size="small"/>
+<rendition height="48" src="images/thumb/escanear0001.jpg" width="37" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="257" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0002.jpg" width="615" size="large"/>
+<rendition height="450" src="images/medium/escanear0002.jpg" width="532" size="medium"/>
+<rendition height="300" src="images/small/escanear0002.jpg" width="355" size="small"/>
+<rendition height="41" src="images/thumb/escanear0002.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="268" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="422" src="images/large/escanear0003.jpg" width="299" size="large"/>
+<rendition height="422" src="images/medium/escanear0003.jpg" width="299" size="medium"/>
+<rendition height="300" src="images/small/escanear0003.jpg" width="213" size="small"/>
+<rendition height="48" src="images/thumb/escanear0003.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="279" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0004.jpg" width="567" size="large"/>
+<rendition height="450" src="images/medium/escanear0004.jpg" width="491" size="medium"/>
+<rendition height="300" src="images/small/escanear0004.jpg" width="327" size="small"/>
+<rendition height="44" src="images/thumb/escanear0004.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="290" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="519" src="images/large/escanear0005.jpg" width="277" size="large"/>
+<rendition height="450" src="images/medium/escanear0005.jpg" width="240" size="medium"/>
+<rendition height="300" src="images/small/escanear0005.jpg" width="160" size="small"/>
+<rendition height="48" src="images/thumb/escanear0005.jpg" width="26" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="301" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="519" src="images/large/escanear0006.jpg" width="266" size="large"/>
+<rendition height="450" src="images/medium/escanear0006.jpg" width="231" size="medium"/>
+<rendition height="300" src="images/small/escanear0006.jpg" width="154" size="small"/>
+<rendition height="48" src="images/thumb/escanear0006.jpg" width="25" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0007.jpg" width="735" size="large"/>
+<rendition height="450" src="images/medium/escanear0007.jpg" width="636" size="medium"/>
+<rendition height="300" src="images/small/escanear0007.jpg" width="424" size="small"/>
+<rendition height="34" src="images/thumb/escanear0007.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="363" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0008.jpg" width="282" size="large"/>
+<rendition height="450" src="images/medium/escanear0008.jpg" width="244" size="medium"/>
+<rendition height="300" src="images/small/escanear0008.jpg" width="163" size="small"/>
+<rendition height="48" src="images/thumb/escanear0008.jpg" width="26" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="374" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0009.jpg" width="547" size="large"/>
+<rendition height="450" src="images/medium/escanear0009.jpg" width="473" size="medium"/>
+<rendition height="300" src="images/small/escanear0009.jpg" width="316" size="small"/>
+<rendition height="46" src="images/thumb/escanear0009.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="385" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0010.jpg" width="620" size="large"/>
+<rendition height="450" src="images/medium/escanear0010.jpg" width="537" size="medium"/>
+<rendition height="300" src="images/small/escanear0010.jpg" width="358" size="small"/>
+<rendition height="40" src="images/thumb/escanear0010.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="396" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0011.jpg" width="544" size="large"/>
+<rendition height="450" src="images/medium/escanear0011.jpg" width="471" size="medium"/>
+<rendition height="300" src="images/small/escanear0011.jpg" width="314" size="small"/>
+<rendition height="46" src="images/thumb/escanear0011.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="407" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0012.jpg" width="346" size="large"/>
+<rendition height="450" src="images/medium/escanear0012.jpg" width="299" size="medium"/>
+<rendition height="300" src="images/small/escanear0012.jpg" width="200" size="small"/>
+<rendition height="48" src="images/thumb/escanear0012.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="418" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0013.jpg" width="443" size="large"/>
+<rendition height="450" src="images/medium/escanear0013.jpg" width="383" size="medium"/>
+<rendition height="300" src="images/small/escanear0013.jpg" width="256" size="small"/>
+<rendition height="48" src="images/thumb/escanear0013.jpg" width="41" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="429" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0014.jpg" width="368" size="large"/>
+<rendition height="450" src="images/medium/escanear0014.jpg" width="318" size="medium"/>
+<rendition height="300" src="images/small/escanear0014.jpg" width="212" size="small"/>
+<rendition height="48" src="images/thumb/escanear0014.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="440" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Imagen002.jpg" width="674" size="large"/>
+<rendition height="450" src="images/medium/Imagen002.jpg" width="583" size="medium"/>
+<rendition height="300" src="images/small/Imagen002.jpg" width="389" size="small"/>
+<rendition height="37" src="images/thumb/Imagen002.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="451" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Imagen003.jpg" width="693" size="large"/>
+<rendition height="450" src="images/medium/Imagen003.jpg" width="600" size="medium"/>
+<rendition height="300" src="images/small/Imagen003.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/Imagen003.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="462" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Imagen004.jpg" width="385" size="large"/>
+<rendition height="450" src="images/medium/Imagen004.jpg" width="333" size="medium"/>
+<rendition height="300" src="images/small/Imagen004.jpg" width="222" size="small"/>
+<rendition height="48" src="images/thumb/Imagen004.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="473" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Imagen007.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/Imagen007.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/Imagen007.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/Imagen007.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="484" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Imagen008_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/Imagen008_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/Imagen008_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/Imagen008_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="495" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Imagen009.jpg" width="693" size="large"/>
+<rendition height="450" src="images/medium/Imagen009.jpg" width="600" size="medium"/>
+<rendition height="300" src="images/small/Imagen009.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/Imagen009.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="506" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Imagen009_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/Imagen009_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/Imagen009_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/Imagen009_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="517" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Imagen010.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/Imagen010.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/Imagen010.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/Imagen010.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="528" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="519" src="images/large/Imagen008.jpg" width="315" size="large"/>
+<rendition height="450" src="images/medium/Imagen008.jpg" width="273" size="medium"/>
+<rendition height="300" src="images/small/Imagen008.jpg" width="182" size="small"/>
+<rendition height="48" src="images/thumb/Imagen008.jpg" width="29" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="539" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0011.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0011.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0011.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0011.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="550" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="519" src="images/large/PICT0012.jpg" width="387" size="large"/>
+<rendition height="450" src="images/medium/PICT0012.jpg" width="336" size="medium"/>
+<rendition height="300" src="images/small/PICT0012.jpg" width="224" size="small"/>
+<rendition height="48" src="images/thumb/PICT0012.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="561" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0013.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0013.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0013.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0013.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="572" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0014.jpg" width="354" size="large"/>
+<rendition height="450" src="images/medium/PICT0014.jpg" width="306" size="medium"/>
+<rendition height="300" src="images/small/PICT0014.jpg" width="204" size="small"/>
+<rendition height="48" src="images/thumb/PICT0014.jpg" width="33" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="583" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Imagen011.jpg" width="381" size="large"/>
+<rendition height="450" src="images/medium/Imagen011.jpg" width="330" size="medium"/>
+<rendition height="300" src="images/small/Imagen011.jpg" width="220" size="small"/>
+<rendition height="48" src="images/thumb/Imagen011.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="594" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0015.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0015.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0015.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0015.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="605" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0016_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0016_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0016_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0016_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="616" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0017.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0017.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0017.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0017.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="627" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0017_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0017_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0017_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0017_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="688" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0018.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0018.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0018.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0018.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="699" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0019_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0019_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0019_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0019_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="710" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0020.jpg" width="425" size="large"/>
+<rendition height="450" src="images/medium/PICT0020.jpg" width="368" size="medium"/>
+<rendition height="300" src="images/small/PICT0020.jpg" width="245" size="small"/>
+<rendition height="48" src="images/thumb/PICT0020.jpg" width="39" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="721" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0020_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0020_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0020_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0020_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="732" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0021.jpg" width="336" size="large"/>
+<rendition height="450" src="images/medium/PICT0021.jpg" width="291" size="medium"/>
+<rendition height="300" src="images/small/PICT0021.jpg" width="194" size="small"/>
+<rendition height="48" src="images/thumb/PICT0021.jpg" width="31" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="743" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0022.jpg" width="383" size="large"/>
+<rendition height="450" src="images/medium/PICT0022.jpg" width="331" size="medium"/>
+<rendition height="300" src="images/small/PICT0022.jpg" width="221" size="small"/>
+<rendition height="48" src="images/thumb/PICT0022.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="754" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0023.jpg" width="389" size="large"/>
+<rendition height="450" src="images/medium/PICT0023.jpg" width="337" size="medium"/>
+<rendition height="300" src="images/small/PICT0023.jpg" width="224" size="small"/>
+<rendition height="48" src="images/thumb/PICT0023.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="765" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0023_2_.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0023_2_.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0023_2_.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0023_2_.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="776" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0024.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0024.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0024.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0024.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="787" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0025.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0025.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0025.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0025.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="798" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0026.jpg" width="693" size="large"/>
+<rendition height="450" src="images/medium/PICT0026.jpg" width="600" size="medium"/>
+<rendition height="300" src="images/small/PICT0026.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/PICT0026.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="809" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0028.jpg" width="693" size="large"/>
+<rendition height="450" src="images/medium/PICT0028.jpg" width="600" size="medium"/>
+<rendition height="300" src="images/small/PICT0028.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/PICT0028.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="820" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0029_2_.jpg" width="693" size="large"/>
+<rendition height="450" src="images/medium/PICT0029_2_.jpg" width="600" size="medium"/>
+<rendition height="300" src="images/small/PICT0029_2_.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/PICT0029_2_.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="831" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0030.jpg" width="693" size="large"/>
+<rendition height="450" src="images/medium/PICT0030.jpg" width="600" size="medium"/>
+<rendition height="300" src="images/small/PICT0030.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/PICT0030.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="842" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0032.jpg" width="693" size="large"/>
+<rendition height="450" src="images/medium/PICT0032.jpg" width="600" size="medium"/>
+<rendition height="300" src="images/small/PICT0032.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/PICT0032.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="853" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0035.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0035.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0035.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0035.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="864" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0038.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0038.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0038.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0038.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="875" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0039.jpg" width="373" size="large"/>
+<rendition height="450" src="images/medium/PICT0039.jpg" width="323" size="medium"/>
+<rendition height="300" src="images/small/PICT0039.jpg" width="215" size="small"/>
+<rendition height="48" src="images/thumb/PICT0039.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="886" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0040.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0040.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0040.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0040.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="897" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0041.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0041.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0041.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0041.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="908" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0042.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0042.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0042.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0042.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="919" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0043.jpg" width="633" size="large"/>
+<rendition height="450" src="images/medium/PICT0043.jpg" width="548" size="medium"/>
+<rendition height="300" src="images/small/PICT0043.jpg" width="365" size="small"/>
+<rendition height="39" src="images/thumb/PICT0043.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="930" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0044.jpg" width="693" size="large"/>
+<rendition height="450" src="images/medium/PICT0044.jpg" width="600" size="medium"/>
+<rendition height="300" src="images/small/PICT0044.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/PICT0044.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="941" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0045.jpg" width="633" size="large"/>
+<rendition height="450" src="images/medium/PICT0045.jpg" width="548" size="medium"/>
+<rendition height="300" src="images/small/PICT0045.jpg" width="365" size="small"/>
+<rendition height="39" src="images/thumb/PICT0045.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="952" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0046.jpg" width="693" size="large"/>
+<rendition height="450" src="images/medium/PICT0046.jpg" width="600" size="medium"/>
+<rendition height="300" src="images/small/PICT0046.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/PICT0046.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1013" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0047.jpg" width="401" size="large"/>
+<rendition height="450" src="images/medium/PICT0047.jpg" width="347" size="medium"/>
+<rendition height="300" src="images/small/PICT0047.jpg" width="231" size="small"/>
+<rendition height="48" src="images/thumb/PICT0047.jpg" width="37" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1024" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0048.jpg" width="504" size="large"/>
+<rendition height="450" src="images/medium/PICT0048.jpg" width="436" size="medium"/>
+<rendition height="300" src="images/small/PICT0048.jpg" width="291" size="small"/>
+<rendition height="48" src="images/thumb/PICT0048.jpg" width="47" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1035" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0049.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0049.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0049.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0049.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1046" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0050.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0050.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0050.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0050.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1057" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0051.jpg" width="640" size="large"/>
+<rendition height="450" src="images/medium/PICT0051.jpg" width="554" size="medium"/>
+<rendition height="300" src="images/small/PICT0051.jpg" width="369" size="small"/>
+<rendition height="39" src="images/thumb/PICT0051.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1068" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0052.jpg" width="645" size="large"/>
+<rendition height="450" src="images/medium/PICT0052.jpg" width="558" size="medium"/>
+<rendition height="300" src="images/small/PICT0052.jpg" width="372" size="small"/>
+<rendition height="39" src="images/thumb/PICT0052.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1079" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0053.jpg" width="693" size="large"/>
+<rendition height="450" src="images/medium/PICT0053.jpg" width="600" size="medium"/>
+<rendition height="300" src="images/small/PICT0053.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/PICT0053.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1090" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0054.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0054.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0054.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0054.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1101" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0056.jpg" width="372" size="large"/>
+<rendition height="450" src="images/medium/PICT0056.jpg" width="322" size="medium"/>
+<rendition height="300" src="images/small/PICT0056.jpg" width="215" size="small"/>
+<rendition height="48" src="images/thumb/PICT0056.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1112" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0057.jpg" width="354" size="large"/>
+<rendition height="450" src="images/medium/PICT0057.jpg" width="306" size="medium"/>
+<rendition height="300" src="images/small/PICT0057.jpg" width="204" size="small"/>
+<rendition height="48" src="images/thumb/PICT0057.jpg" width="33" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1123" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0058.jpg" width="379" size="large"/>
+<rendition height="450" src="images/medium/PICT0058.jpg" width="328" size="medium"/>
+<rendition height="300" src="images/small/PICT0058.jpg" width="219" size="small"/>
+<rendition height="48" src="images/thumb/PICT0058.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1134" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="519" src="images/large/PICT0059.jpg" width="381" size="large"/>
+<rendition height="450" src="images/medium/PICT0059.jpg" width="330" size="medium"/>
+<rendition height="300" src="images/small/PICT0059.jpg" width="220" size="small"/>
+<rendition height="48" src="images/thumb/PICT0059.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1145" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0060.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/PICT0060.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/PICT0060.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/PICT0060.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1156" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0061.jpg" width="382" size="large"/>
+<rendition height="450" src="images/medium/PICT0061.jpg" width="331" size="medium"/>
+<rendition height="300" src="images/small/PICT0061.jpg" width="220" size="small"/>
+<rendition height="48" src="images/thumb/PICT0061.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1167" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0062.jpg" width="360" size="large"/>
+<rendition height="450" src="images/medium/PICT0062.jpg" width="312" size="medium"/>
+<rendition height="300" src="images/small/PICT0062.jpg" width="208" size="small"/>
+<rendition height="48" src="images/thumb/PICT0062.jpg" width="33" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1178" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/PICT0063.jpg" width="365" size="large"/>
+<rendition height="450" src="images/medium/PICT0063.jpg" width="316" size="medium"/>
+<rendition height="300" src="images/small/PICT0063.jpg" width="211" size="small"/>
+<rendition height="48" src="images/thumb/PICT0063.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1189" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="450" src="images/large/escanear0015.jpg" width="464" size="large"/>
+<rendition height="450" src="images/medium/escanear0015.jpg" width="464" size="medium"/>
+<rendition height="300" src="images/small/escanear0015.jpg" width="309" size="small"/>
+<rendition height="47" src="images/thumb/escanear0015.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1200" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="460" src="images/large/escanear0018.jpg" width="497" size="large"/>
+<rendition height="450" src="images/medium/escanear0018.jpg" width="486" size="medium"/>
+<rendition height="300" src="images/small/escanear0018.jpg" width="324" size="small"/>
+<rendition height="44" src="images/thumb/escanear0018.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1211" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0019.jpg" width="347" size="large"/>
+<rendition height="450" src="images/medium/escanear0019.jpg" width="300" size="medium"/>
+<rendition height="300" src="images/small/escanear0019.jpg" width="200" size="small"/>
+<rendition height="48" src="images/thumb/escanear0019.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1222" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="519" src="images/large/escanear0020.jpg" width="370" size="large"/>
+<rendition height="450" src="images/medium/escanear0020.jpg" width="321" size="medium"/>
+<rendition height="300" src="images/small/escanear0020.jpg" width="214" size="small"/>
+<rendition height="48" src="images/thumb/escanear0020.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1233" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0021.jpg" width="489" size="large"/>
+<rendition height="450" src="images/medium/escanear0021.jpg" width="423" size="medium"/>
+<rendition height="300" src="images/small/escanear0021.jpg" width="282" size="small"/>
+<rendition height="48" src="images/thumb/escanear0021.jpg" width="45" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1244" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0022.jpg" width="448" size="large"/>
+<rendition height="450" src="images/medium/escanear0022.jpg" width="388" size="medium"/>
+<rendition height="300" src="images/small/escanear0022.jpg" width="258" size="small"/>
+<rendition height="48" src="images/thumb/escanear0022.jpg" width="41" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1255" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0023.jpg" width="772" size="large"/>
+<rendition height="450" src="images/medium/escanear0023.jpg" width="668" size="medium"/>
+<rendition height="300" src="images/small/escanear0023.jpg" width="445" size="small"/>
+<rendition height="32" src="images/thumb/escanear0023.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1266" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0024.jpg" width="754" size="large"/>
+<rendition height="450" src="images/medium/escanear0024.jpg" width="653" size="medium"/>
+<rendition height="300" src="images/small/escanear0024.jpg" width="435" size="small"/>
+<rendition height="33" src="images/thumb/escanear0024.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1277" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0025.jpg" width="784" size="large"/>
+<rendition height="450" src="images/medium/escanear0025.jpg" width="678" size="medium"/>
+<rendition height="298" src="images/small/escanear0025.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/escanear0025.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1338" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/escanear0017.jpg" width="430" size="large"/>
+<rendition height="450" src="images/medium/escanear0017.jpg" width="372" size="medium"/>
+<rendition height="300" src="images/small/escanear0017.jpg" width="248" size="small"/>
+<rendition height="48" src="images/thumb/escanear0017.jpg" width="40" size="thumb"/>
+</renditions>
+</item>
+</media>
+</mediaGroup>

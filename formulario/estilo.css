@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #d6d7b5;
+}
+#contacto {
+	background-image: url(images/fondo.jpg);
+	background-repeat: no-repeat;
+	height: 479px;
+	width: 559px;
+	margin-top: 0px;
+	padding-top: 30px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+
+#espacio {
+	padding-right: 70px;
+}
+
+#contacto #elnombre {
+	background-image: url(images/nombre.jpg);
+	background-repeat: no-repeat;
+	height: 51px;
+	width: 327px;
+	float: right;	
+}
+
+#contacto #elnombre .nombre{
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 18px;
+	color: black;
+	background:transparent;
+	width: 180px;
+	margin-left: 118px;
+	padding-top: 8px;
+    border: 0;	
+}
+
+#contacto #elemail {
+	background-image: url(images/email.jpg);
+	background-repeat: no-repeat;
+	height: 51px;
+	width: 327px;
+	float: right;
+}
+
+#contacto #elemail .email{
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 16px;
+	color: black;
+	background:transparent;
+	width: 180px;
+	margin-left: 118px;
+	padding-top: 10px;
+    border: 0;	
+}
+
+#contacto #elmensaje{
+	display: block;
+	margin-top: 12px;
+	background-image: url(images/mensaje.jpg);
+	background-repeat: no-repeat;
+	height: 124px;
+	width: 410px;
+	float: right;
+}
+
+#contacto #elmensaje .mensaje{
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 17px;
+	color: #6b6b6b;
+	height: 121px;
+	width: 383px;
+	border:0;
+	background:transparent;
+	margin-top: 2px;
+}
+
+#contacto .enviar{
+	margin-top: 15px;
+	margin-left: 409px;	
+}
+
+#contacto .contacto{
+	margin-top: 60px;
+	margin-left: 63px;
+}

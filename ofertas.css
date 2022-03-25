@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+
+body {
+
+	background-color: #d6d7b5;
+
+}
+
+#wraper {
+
+	width: 960px;
+
+	margin-top: 50px;
+
+	margin-right: auto;
+
+	margin-bottom: auto;
+
+	margin-left: auto;
+
+}
+
+
+
+#base1 {
+	height: 291px;
+	width: 960px;
+	background-image: url(imagenes/oferta02.jpg);
+	background-repeat: no-repeat;
+}

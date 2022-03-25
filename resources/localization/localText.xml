@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<localization>
+	<progressBars>
+		<loadingImgTxt label="Cargando imagen..." />
+		<loadingSizeTxt label="Cargando nuevo tamaño de imagen..." />
+	</progressBars>
+	<galleryMenus>
+		<menuitem label="Vista" event="MenuView">
+			<menuitem label="Galería" type="radio" event="MenuViewGallery"/>
+			<menuitem label="Proyección de diapositivas" type="radio" event="MenuViewSlideshow"/>
+			<menuitem label="Separator" event="Separator"/>
+			<menuitem label="Acerca de estas fotografías" type="radio" event="MenuViewAbout"/>		
+		</menuitem>
+	</galleryMenus>
+	<toolTips>
+		<toolTip label="Imagen siguiente" item="SlideshowVCRNextTip"/>
+		<toolTip label="Imagen anterior" item="SlideshowVCRPrevTip"/>
+		<toolTip label="Reproducir proyección de diapositivas" item="SlideshowVCRPlayTip"/>
+		<toolTip label="Pausar proyección de diapositivas" item="SlideshowVCRPauseTip"/>
+		<toolTip label="Visualizar galería" item="SlideshowViewGalleryTip"/>
+		<toolTip label="Visualizar proyección de diapositivas" item="SlideshowViewSlideshowTip"/>
+		<toolTip label="Añadir comentario" item="SlideshowOpenCommentTip"/>
+		<toolTip label="Marcar como favorita" item="SlideshowMarkFavoriteTip"/>
+		<toolTip label="Página siguiente" item="ThumbnailNextPageTip"/>
+		<toolTip label="Página anterior" item="ThumbnailPrevPageTip"/>
+		<toolTip label="Última página" item="ThumbnailLastPageTip"/>
+		<toolTip label="Primera página" item="ThumbnailFirstPageTip"/>
+		<toolTip label="Reproducir vídeo" item="SlideshowVideoPlayTip"/>
+		<toolTip label="Pausar vídeo" item="SlideshowVideoPauseTip"/>
+		<toolTip label="Rebobinar vídeo" item="SlideshowVideoRewindTip"/>
+	</toolTips>
+</localization>
